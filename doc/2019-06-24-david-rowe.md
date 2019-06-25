@@ -11,3 +11,5 @@ A series of applications illustrating what the code could do was published in 20
 The reason the code was written in Maple  was because I wrote the first version and Maple is the only computer language that I have used in the past 40-odd years (in fact you introduced me to the Mac and Maple).  The only person who is now making any use of the code is a former post-doc of mine (Gabriela Thiamova (now in France) who took home the Maple software when she left Toronto but she knows about as much about computing as I do.
 
 Anyway, I am sure the above is more than enough background.  There are two reason that give a renewed interest in this model:  (i) experimental studies of nuclear collective properties continue to be analysed in terms of an adiabatic approximation to this model which treats its rotations and vibrations as adiabatically decoupled; thus the code provides an easy check on a calculation and its validity;  (ii) it will also be of fundamental use in making a connection  between the classical theory and our new many-nucleon theory.
+
+-- David Rowe, 2019-06-24
