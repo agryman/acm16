@@ -1,3 +1,5 @@
+2019-06-25
+
 Enclosed is the paper requested.  The results obtained were with an early version of the Maple code that I wrote but about which I recall very little. The other two Maple codes, were early versions of Trevor’s code that I used to obtain the results shown in the 2009 paper that I already sent to you.
 
 What is my objective?   Experimentalists continue to use the old Bohr-Mottelson model, which is an adiabatic approximation to the full ACM (algebraic collective model) which, in turn, is an algebraic extension (which I introduced and for which Trevor’s code was written) of the more phenomenological liquid-drop Bohr model (which was hardly, if ever, used in practice).
@@ -11,4 +13,4 @@ At a more fundamental level, I have been constructing over the years an algebrai
 
 Let me know, if the attached is what you wanted.
 
--- David Rowe, 2019-06-25
+-- David Rowe

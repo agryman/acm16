@@ -1,3 +1,5 @@
+2019-06-24
+
 I attach a few documents and the Maple code.  It may not be the latest but, if you think it worthwhile to look into it further, I can get Trevor Welsh, who developed it, to send you the latest version and answer any questions you might have about it  (trevviewelsh@yahoo.co.uk).
 
 Essentially the code enables applications of an algebraic version of the Aage Bohr model of the rotational and a quadrupole vibrations of nuclei.
@@ -12,4 +14,4 @@ The reason the code was written in Maple  was because I wrote the first version 
 
 Anyway, I am sure the above is more than enough background.  There are two reason that give a renewed interest in this model:  (i) experimental studies of nuclear collective properties continue to be analysed in terms of an adiabatic approximation to this model which treats its rotations and vibrations as adiabatically decoupled; thus the code provides an easy check on a calculation and its validity;  (ii) it will also be of fundamental use in making a connection  between the classical theory and our new many-nucleon theory.
 
--- David Rowe, 2019-06-24
+-- David Rowe
