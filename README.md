@@ -9,7 +9,7 @@ within the Nuclear Physics research community.
 The ACM code was developed by David Rowe and Trevor Welsch.
 
 See [Trevor Welsch's University of Toronto Home 
-Page](https://www.physics.utoronto.ca/~rowe/taw/taw_home.html)
+Page](https://www.physics.utoronto.ca/site-archive/rowe/taw/taw_home.html)
 for references to the original Maple source code and papers.
 
 Several versions of the ACM have been developed over the years.
@@ -24,4 +24,7 @@ Trevor wrote:
 The latest version is 1.4.
 Instructions for downloading and installing the latest version of the code
 are given at [A computer code for the Algebraic Collective 
-Model](https://www.physics.utoronto.ca/~rowe/taw/acm/acm_home.html).
+Model](https://www.physics.utoronto.ca/site-archive/rowe/taw/acm/acm_home.html).
+
+See also [SO(5)⊃SO(3) Clebsch-Gordan coefficients and Spherical 
+Harmonics](https://www.physics.utoronto.ca/site-archive/rowe/taw/acm/so5/so5_home.html).
