@@ -18,7 +18,7 @@ Trevor wrote:
 
 > When we first put our manuscript on the [arxiv](http://arxiv.org/abs/1408.3824),
   I aligned the manuscript and code version numbers, and decided to start
-  a new scheme at version 1.1 . The version that was eventually published
+  a new scheme at version 1.1. The version that was eventually published
   in CPC was version 1.4 .
 
 The latest version is 1.4.
