@@ -1,0 +1,43 @@
+2022-03-03
+
+I want to get a copy of the article:
+
+[RTR2004] "Spherical harmonics and basic coupling coefficients for the group SO(5) in an SO(3) basis", by D.J. Rowe, P.S. Turner and J. Repka, J. Math. Phys. 45 (2004) 2761-2784.
+
+There is a PDF at the website:
+https://aip.scitation.org/doi/pdf/10.1063/1.1763004
+
+Spherical harmonics and basic coupling coefficients for the group SO(5) in an SO(3) basis
+J. Math. Phys. 45, 2761 (2004); https://doi.org/10.1063/1.1763004
+
+I created an account at aip.scitation.org using my Ryerson email.
+
+Still have "No Access". Cannot download PDF.
+
+Does Ryerson have institutional access?
+
+Log in to my.ryerson
+
+https://my.ryerson.ca/uPortal/f/u21l1s1000/normal/render.uP
+
+"You do not have access to this application."
+
+I think David had a PDF of every article he wrote. Find them.
+
+I found 6 PDF's: 
+JMP 45 2761 Rowe-.. SO(5) CG coeffs.pdf
+JMP 45 2761 Rowe/.. SO(5) CG coeffs.pdf
+
+/Users/arthurryman/Documents/People/David Rowe/David Rowe Memorial Project/david-rowe-imac/2020-05-27/iCloud Drive (Archive) - 1/Datafiles/John(10-25-12)/   COLLECTIVE MODELS/ ACM 
+
+/Users/arthurryman/Documents/People/David Rowe/David Rowe Memorial Project/david-rowe-imac/2020-05-27/iCloud Drive (Archive) - 1/Datafiles/John(10-25-12)/   COLLECTIVE MODELS/ Bohr model
+
+/Users/arthurryman/Documents/People/David Rowe/David Rowe Memorial Project/david-rowe-imac/2020-05-27/iCloud Drive (Archive) - 1/Datafiles/John(10-25-12)/   ROWANWOOD Vol. 2, Ch. 6 SU(3) biblio.
+
+/Users/davidrowe/iCloud Drive (Archive)/Datafiles/John(10-25-12)/   COLLECTIVE MODELS/ ACM 
+
+/Users/davidrowe/iCloud Drive (Archive)/Datafiles/John(10-25-12)/   COLLECTIVE MODELS/ Bohr model
+
+/Users/davidrowe/iCloud Drive (Archive)/Datafiles/John(10-25-12)/   ROWANWOOD Vol. 2, Ch. 6 SU(3) biblio.
+
+I copied this article to OneDrive.
