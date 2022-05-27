@@ -6,9 +6,9 @@ The goal of this project is to translate the ACM Maple source code into one or
 more other freely available languages, e.g. Python, so that it can be used more widely
 within the Nuclear Physics research community.
 
-The ACM code was developed by David Rowe and Trevor Welsch.
+The ACM code was developed by David Rowe and Trevor Welsh.
 
-See [Trevor Welsch's University of Toronto Home 
+See [Trevor Welsh's University of Toronto Home 
 Page](https://www.physics.utoronto.ca/site-archive/rowe/taw/taw_home.html)
 for references to the original Maple source code and papers.
 
